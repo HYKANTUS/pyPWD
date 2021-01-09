@@ -1,6 +1,8 @@
 # pyPWD
 A simple password generator
 
+see it on PyPI: https://pypi.org/project/pyPWD/
+
 ### Info
 Passwords are generated in this format: (LETTERS) (SYMBOL) (NUMBERS)
 
