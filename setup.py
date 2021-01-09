@@ -11,13 +11,14 @@ setup(
     description='A simple password generator',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/HYKANTUS/pyASCIIgenerator',
+    url='https://github.com/HYKANTUS/pyPWD',
     author='HYKANTUS',
     author_email='hykantus@gmail.com',
 
     classifiers=[
         'Development Status :: 5 - Production/Stable',
-        'Intended Audience :: General',
+        'Intended Audience :: Developers',
+        'Topic :: Software Development :: Build Tools',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.6',
